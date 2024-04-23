@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/arizz96/mqtt-subscription-logger#readme",
   "dependencies": {
-    "mqtt": "^2.18.8"
+    "mqtt": "^5.5.3"
   }
 }
