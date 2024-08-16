@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM docker.twtools.io/docker_io/library/node:8-alpine
 
 # Create app directory
 WORKDIR /usr/src/app
