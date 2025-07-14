@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: uala-node-mqtt-subscription-logger
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  description: Nodejs app that allows to subscribe to a channel of a mqtt broker and print all messages in console.
+  title: app to subscribe to a mqtt broker's channel
+spec:
+  type: component
+  lifecycle: production
+  owner: operations-and-insights
+  
